@@ -13,6 +13,8 @@ const Register = () => {
 
     const handleRegister = event => {
         event.preventDefault();
+        console.log(event.target)
+
     }
     return (
         
