@@ -1,11 +1,16 @@
 import React from 'react';
-import { useParams } from 'react-router-dom';
+import { Link, useParams } from 'react-router-dom';
 
 const CheckOutPage = () => {
     const { checkoutPage} = useParams();
     return (
-        <div>
-            <h2>Welcome to CheckOut Page { checkoutPage}</h2>
+        <div className='text-center'>
+            <h2>Welcome to CheckOut Page {checkoutPage}</h2>
+            <div>
+                <Link to='/checkout'>
+                    <button className='btn btn-primary'>Proceed Checkout</button>
+                </Link>
+            </div>
         </div>
     );
 };
