@@ -70,12 +70,12 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
 
-# create header section
-# added slider section
-# services section added
-# firebase authentication system added
-# login and singup added
-# blog page added
-# about me page created etc.
-# use react bootstrap frame work.
-# site live link : https://polite-bombolone-755bd8.netlify.app/#servicePage
+* create header section
+* added slider section
+* services section added
+* firebase authentication system added
+* login and singup added
+* blog page added
+* about me page created etc.
+* use react bootstrap frame work.
+* site live link : https://polite-bombolone-755bd8.netlify.app/#servicePage
