@@ -1,0 +1,10 @@
+.About-me{
+    display: flex;
+    text-align: center;
+    margin-top: 10%;
+
+}
+
+.my-pic{
+    width: 50%;
+}
